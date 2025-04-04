@@ -1,46 +1,62 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Benjamin Bischoff's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Benjamin Bischoff
+benjaminbischoff12@gmail.com | 509-250-6538
 
-<div id="webaddress">
+<!-- <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+</div> -->
 
 
-## Currently
+## 
+### EDUCATION
+**Bachelor of Science in Accounting**
+- April 2027
+*Brigham Young University – Idaho*
+- GPA: 3.98
+- Member of the Student Accounting Society
+- Minor in Data Science
 
-Standing on the shoulders of giants
+##
+### EXPERIENCE
+**Cashier, Customer Service Rep, and Receiving Operator**	September 2023 - Present
+*Brigham Young University - Idaho University Store*	
+*Rexburg, Idaho*
+- Learned software to perform daily tasks such as transactions and managing inventory
+- Collaborated with 5-10 coworkers in handling rush weeks at beginning and end of semesters
+- Received and entered hundreds of products a week into inventory
+- Tracked and shipped 10-15 packages a week with spreadsheets
+- Communicated with customers to ensure the best shopping experience
+ 
+**Part Time Laborer**	
+September 2017 - July 2021
+*West Coast Automation*	
+*Goldendale, Washington*
+- Produced company's products quickly and with care to meet standards
+- Reviewed hundreds of products were of quality and being shipped to correct locations daily
+- Trained replacement on how production operations are conducted and how to be efficient
+ 
+**Part Time Laborer**	
+September 2020 - July 2021
+*TLC Modular Homes*
+*Goldendale, Washington*
+- Kept workshop clean and organized tools and supplies for 5 coworkers to promote efficiency
+- Stayed late to ensure home production was done on time and correctly
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+##
+### FUNCTIONAL SKILLS
+- Organization
+- Fast Learner
+- Communication
+- Honesty
+- Diligence
+ 
+##
+### ACCOMPLISHMENTS
+- Volunteer Missionary for the Church of Jesus Christ of Latter-day Saints, July 2021-July 2023
 
 ## Awards
 
@@ -49,41 +65,6 @@ President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
