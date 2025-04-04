@@ -4,6 +4,7 @@ title: Benjamin Bischoff's Resume
 ---
 # Benjamin Bischoff
 benjaminbischoff12@gmail.com | 509-250-6538 
+
 ## EDUCATION  
 __Bachelor of Science in Accounting__  
 - April 2027  
@@ -37,12 +38,14 @@ September 2020 - July 2021
 *Goldendale, Washington*  
 - Kept workshop clean and organized tools and supplies for 5 coworkers to promote efficiency  
 - Stayed late to ensure home production was done on time and correctly  
+
 ## FUNCTIONAL SKILLS  
 - Organization
 - Fast Learner
 - Communication
 - Honesty
 - Diligence  
+
 ## ACCOMPLISHMENTS   
 - Volunteer Missionary for the Church of Jesus Christ of Latter-day Saints, July 2021-July 2023
 <!-- ### Footer
