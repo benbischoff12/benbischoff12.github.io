@@ -4,6 +4,7 @@ title: Benjamin Bischoff's Resume
 ---
 # Benjamin Bischoff
 benjaminbischoff12@gmail.com | 509-250-6538
+
 ## 
 ### EDUCATION
 **Bachelor of Science in Accounting**
@@ -12,8 +13,10 @@ benjaminbischoff12@gmail.com | 509-250-6538
 - GPA: 3.98
 - Member of the Student Accounting Society
 - Minor in Data Science
+
 ##
 ### EXPERIENCE
+
 **Cashier, Customer Service Rep, and Receiving Operator**
 September 2023 - Present
 *Brigham Young University - Idaho University Store*	
@@ -38,6 +41,7 @@ September 2020 - July 2021
 *Goldendale, Washington*
 - Kept workshop clean and organized tools and supplies for 5 coworkers to promote efficiency
 - Stayed late to ensure home production was done on time and correctly
+
 ##
 ### FUNCTIONAL SKILLS
 - Organization
@@ -45,6 +49,7 @@ September 2020 - July 2021
 - Communication
 - Honesty
 - Diligence
+
 ##
 ### ACCOMPLISHMENTS
 - Volunteer Missionary for the Church of Jesus Christ of Latter-day Saints, July 2021-July 2023
