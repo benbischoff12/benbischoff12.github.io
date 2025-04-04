@@ -3,54 +3,47 @@ layout: cv
 title: Benjamin Bischoff's Resume
 ---
 # Benjamin Bischoff
-benjaminbischoff12@gmail.com | 509-250-6538
-
-## 
-### EDUCATION  
+benjaminbischoff12@gmail.com | 509-250-6538 
+## EDUCATION  
 __Bachelor of Science in Accounting__  
 - April 2027  
 *Brigham Young University – Idaho*  
-- GPA: 3.98
-- Member of the Student Accounting Society
-- Minor in Data Science
+- GPA: 3.98  
+- Member of the Student Accounting Society  
+- Minor in Data Science  
 
-##
-### EXPERIENCE  
+## EXPERIENCE  
 __Cashier, Customer Service Rep, and Receiving Operator__  
 September 2023 - Present  
 *Brigham Young University - Idaho University Store*	  
 *Rexburg, Idaho*  
-- Learned software to perform daily tasks such as transactions and managing inventory
-- Collaborated with 5-10 coworkers in handling rush weeks at beginning and end of semesters
-- Received and entered hundreds of products a week into inventory
-- Tracked and shipped 10-15 packages a week with spreadsheets
-- Communicated with customers to ensure the best shopping experience
+- Learned software to perform daily tasks such as transactions and managing inventory  
+- Collaborated with 5-10 coworkers in handling rush weeks at beginning and end of semesters  
+- Received and entered hundreds of products a week into inventory  
+- Tracked and shipped 10-15 packages a week with spreadsheets  
+- Communicated with customers to ensure the best shopping experience  
  
 __Part Time Laborer__	
 September 2017 - July 2021  
 *West Coast Automation*	  
 *Goldendale, Washington*  
-- Produced company's products quickly and with care to meet standards
-- Reviewed hundreds of products were of quality and being shipped to correct locations daily
-- Trained replacement on how production operations are conducted and how to be efficient
+- Produced company's products quickly and with care to meet standards  
+- Reviewed hundreds of products were of quality and being shipped to correct locations daily  
+- Trained replacement on how production operations are conducted and how to be efficient  
 
 __Part Time Laborer__	
-September 2020 - July 2021
-*TLC Modular Homes*
-*Goldendale, Washington*
-- Kept workshop clean and organized tools and supplies for 5 coworkers to promote efficiency
-- Stayed late to ensure home production was done on time and correctly
-
-##
-### FUNCTIONAL SKILLS  
+September 2020 - July 2021  
+*TLC Modular Homes*  
+*Goldendale, Washington*  
+- Kept workshop clean and organized tools and supplies for 5 coworkers to promote efficiency  
+- Stayed late to ensure home production was done on time and correctly  
+## FUNCTIONAL SKILLS  
 - Organization
 - Fast Learner
 - Communication
 - Honesty
-- Diligence
-
-##
-### ACCOMPLISHMENTS   
+- Diligence  
+## ACCOMPLISHMENTS   
 - Volunteer Missionary for the Church of Jesus Christ of Latter-day Saints, July 2021-July 2023
 <!-- ### Footer
 
